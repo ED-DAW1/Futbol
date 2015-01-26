@@ -1,0 +1,16 @@
+Atletico Madrid::Zaragoza::0::1
+Zaragoza::Valencia::4::0
+Alaves::Barcelona::0::0
+Getafe::Athletic::1::2
+Villarreal::Sevilla::1::0
+Betis::Zaragoza::0::0
+Valencia::Deportivo::2::1
+Deportivo::Betis::4::1
+Barcelona::Valencia::3::2
+Getafe::Mallorca::1::1
+Malaga::Alaves::0::0
+Cadiz::Villarreal::1::1
+Sevilla::Cadiz::0::4
+Zaragoza::Deportivo::1::1
+Barcelona::Zaragoza::3::2
+Real Sociedad::Betis::1::1
